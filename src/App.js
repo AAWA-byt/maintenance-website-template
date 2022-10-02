@@ -8,6 +8,7 @@ function App() {
         <h1>We're under maintenance</h1>
         <img src={maintenance} alt="rocket" />
         <p className='copyright'><a href="https://www.clipartmax.com/middle/m2i8m2Z5Z5H7i8Z5_website-maintenance-icon-png/">Website Maintenance Icon Png @clipartmax.com</a></p>
+        <p className='copyright'>Website design from <a href='https://github.com/AAWA-byt/maintenance-website-template/'><b>AAWA-byt</b></a></p>
       </header>
     </div>
   );
