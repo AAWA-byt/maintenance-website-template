@@ -1,5 +1,6 @@
 # maintenance-website-template
 This is a simple maintenance template for an empty website. Nothing special.
+If you should have a request please leave an issue and I will look forward to work on that request.
 
 
 ## Getting started with building the app
